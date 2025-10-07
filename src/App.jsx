@@ -1,8 +1,8 @@
 import NavbarCIS from './cis/NavbarCIS'
 import TitleCIS from './cis/TitleCIS'
 import AboutCIS from './cis/AboutCIS'
-import StatisticsCIS from './cis/StatisticsCIS'
 import TeamCis from './cis/TeamCIS'
+import HighlightsCIS from './cis/HighlightsCIS'
 import ContactCIS from './cis/ContactCIS'
 import FooterCIS from './cis/FooterCIS'
 import './App.css'
@@ -13,7 +13,7 @@ function App() {
       <NavbarCIS />
       <TitleCIS />
       <AboutCIS />
-      <StatisticsCIS />
+      <HighlightsCIS />
       <TeamCis />
       <ContactCIS />
       <FooterCIS />
